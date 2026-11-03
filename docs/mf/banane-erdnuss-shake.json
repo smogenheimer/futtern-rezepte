@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "milkshake",
+ "name": "Banane-Erdnuss-Shake",
+ "nutrients": {
+  "energy": 450,
+  "protein": 33,
+  "carbs": 51,
+  "fat": 11
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 410
+ },
+ "notes": "Futtern-Plan: 250 ml Haferdrink ungesüßt, 30 g Whey Protein Isolat Vanille, 100 g Banane, 10 g Erdnussmus, 20 g Haferflocken zart"
+}

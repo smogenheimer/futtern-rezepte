@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "milkshake",
+ "name": "Beeren-Protein-Smoothie",
+ "nutrients": {
+  "energy": 375,
+  "protein": 31,
+  "carbs": 38,
+  "fat": 9
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 450
+ },
+ "notes": "Futtern-Plan: 250 ml Haferdrink ungesüßt, 30 g Whey Protein Isolat Vanille, 100 g Beerenmischung tiefgekühlt, 60 g Banane, 10 g Chiasamen"
+}

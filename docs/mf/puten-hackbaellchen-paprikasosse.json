@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "meatballs",
+ "name": "Puten-Hackbällchen in milder Paprikasoße",
+ "nutrients": {
+  "energy": 655,
+  "protein": 43,
+  "carbs": 66,
+  "fat": 22
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 528
+ },
+ "notes": "Futtern-Plan: 300 g Putenhackfleisch, 55 g Ei (1 Stück), 20 g Haferflocken zart, 5 g Rapsöl, 300 g Paprika rot, 200 g Passierte Tomaten, 50 ml Kochsahne laktosefrei 15 %, 5 g Olivenöl, 120 g Basmatireis"
+}

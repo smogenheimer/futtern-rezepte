@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "chicken",
+ "name": "Creamy Cajun Chicken One-Pot (mild)",
+ "nutrients": {
+  "energy": 615,
+  "protein": 51,
+  "carbs": 55,
+  "fat": 19
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 585
+ },
+ "notes": "Futtern-Plan: 300 g Hähnchenbrustfilet, 140 g Penne, 400 ml Gemüsebrühe, 100 ml Kochsahne laktosefrei 15 %, 10 g Olivenöl, 20 g Parmesan, 50 g Babyspinat, 150 g Paprika rot"
+}

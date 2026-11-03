@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "yogurt",
+ "name": "Proteinquark-Bowl Beeren-Walnuss",
+ "nutrients": {
+  "energy": 255,
+  "protein": 29,
+  "carbs": 16,
+  "fat": 8
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 281
+ },
+ "notes": "Futtern-Plan: 150 g Magerquark, 30 ml Haferdrink ungesüßt, 10 g Whey Protein Isolat Vanille, 80 g Beerenmischung tiefgekühlt, 10 g Walnusskerne, 1 g Zimt"
+}

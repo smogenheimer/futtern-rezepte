@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "spaghettiRedSauce",
+ "name": "Spaghetti Bolo (gestreckt)",
+ "nutrients": {
+  "energy": 680,
+  "protein": 42,
+  "carbs": 72,
+  "fat": 22
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 475
+ },
+ "notes": "Futtern-Plan: 200 g Rinderhackfleisch, 40 g Rote Linsen getrocknet, 80 g Möhren, 80 g Paprika rot, 350 g Passierte Tomaten, 10 g Tomatenmark, 5 g Olivenöl, 15 g Frühlingszwiebeln, 140 g Spaghetti, 30 g Parmesan"
+}

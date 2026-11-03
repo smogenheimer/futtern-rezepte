@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "salmonFilet",
+ "name": "Lachs-Frikadellen mit Kartoffelsalat",
+ "nutrients": {
+  "energy": 675,
+  "protein": 41,
+  "carbs": 56,
+  "fat": 31
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 665
+ },
+ "notes": "Futtern-Plan: 250 g Lachsfilet, 55 g Ei (1 Stück), 30 g Haferflocken zart, 15 g Senf mittelscharf, 5 g Rapsöl, 500 g Kartoffeln festkochend, 150 ml Gemüsebrühe, 15 ml Apfelessig, 10 g Olivenöl, 200 g Salatgurke, 50 g Griechischer Joghurt, 50 g Magerquark"
+}

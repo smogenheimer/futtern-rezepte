@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "chirashiBowlSushi",
+ "name": "Teriyaki-Lachs-Bowl",
+ "nutrients": {
+  "energy": 585,
+  "protein": 37,
+  "carbs": 60,
+  "fat": 21
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 390
+ },
+ "notes": "Futtern-Plan: 300 g Lachsfilet, 120 g Basmatireis, 30 ml Sojasauce, 10 g Honig, 5 ml Reisessig, 5 g Ingwer frisch, 5 g Speisestärke, 200 g Salatgurke, 100 g Möhren, 5 g Sesam"
+}

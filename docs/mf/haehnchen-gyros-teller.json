@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "breadPita",
+ "name": "Hähnchen-Gyros-Teller mit Tzatziki",
+ "nutrients": {
+  "energy": 595,
+  "protein": 56,
+  "carbs": 54,
+  "fat": 17
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 808
+ },
+ "notes": "Futtern-Plan: 350 g Hähnchenbrustfilet, 10 g Olivenöl, 500 g Kartoffeln festkochend, 5 g Rapsöl, 100 g Griechischer Joghurt, 100 g Magerquark, 300 g Salatgurke, 150 g Cherrytomaten, 100 g Paprika rot"
+}

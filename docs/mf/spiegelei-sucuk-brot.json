@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "mealPlateFullEnglishBreakfast",
+ "name": "Spiegelei-Sucuk-Brot",
+ "nutrients": {
+  "energy": 535,
+  "protein": 30,
+  "carbs": 48,
+  "fat": 25
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 350
+ },
+ "notes": "Futtern-Plan: 100 g Vollkornbrot (2 Scheiben), 40 g Sucuk, 110 g Eier (2 Stück, Größe M), 100 g Salatgurke"
+}

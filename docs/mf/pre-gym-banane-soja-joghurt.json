@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "bananas",
+ "name": "Pre-Gym Banane & Soja-Joghurt",
+ "nutrients": {
+  "energy": 200,
+  "protein": 9,
+  "carbs": 27,
+  "fat": 3
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 270
+ },
+ "notes": "Futtern-Plan: 120 g Banane, 150 g Alpro Greek Style Natur"
+}

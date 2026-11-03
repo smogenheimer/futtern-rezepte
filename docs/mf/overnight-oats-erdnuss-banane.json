@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "overnightOats",
+ "name": "Overnight Oats Erdnuss-Banane",
+ "nutrients": {
+  "energy": 550,
+  "protein": 35,
+  "carbs": 64,
+  "fat": 15
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 360
+ },
+ "notes": "Futtern-Plan: 60 g Haferflocken zart, 200 ml Haferdrink ungesüßt, 25 g Whey Protein Isolat Vanille, 60 g Banane, 15 g Erdnussmus"
+}

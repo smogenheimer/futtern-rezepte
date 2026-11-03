@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "lasagne",
+ "name": "Lasagne (gestreckt)",
+ "nutrients": {
+  "energy": 665,
+  "protein": 42,
+  "carbs": 67,
+  "fat": 23
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 535
+ },
+ "notes": "Futtern-Plan: 150 g Rinderhackfleisch, 40 g Rote Linsen getrocknet, 80 g Möhren, 250 g Passierte Tomaten, 5 g Olivenöl, 250 ml Milch laktosefrei 1,5 %, 15 g Weizenmehl, 5 g Olivenöl, 100 g Lasagneplatten, 100 g Babyspinat, 60 g Mozzarella light, 15 g Parmesan"
+}

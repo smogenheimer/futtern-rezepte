@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "saladPlate",
+ "name": "Milder Snack-Teller",
+ "nutrients": {
+  "energy": 350,
+  "protein": 24,
+  "carbs": 15,
+  "fat": 21
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 403
+ },
+ "notes": "Futtern-Plan: 75 g Griechischer Joghurt, 75 g Magerquark, 55 g Ei hartgekocht (1 Stück), 100 g Salatgurke, 80 g Möhren, 15 g Mandeln, 3 g Schnittlauch"
+}

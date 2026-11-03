@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "overnightOats",
+ "name": "Overnight Oats Apfel-Zimt",
+ "nutrients": {
+  "energy": 515,
+  "protein": 32,
+  "carbs": 60,
+  "fat": 14
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 376
+ },
+ "notes": "Futtern-Plan: 60 g Haferflocken zart, 200 ml Haferdrink ungesüßt, 25 g Whey Protein Isolat Vanille, 80 g Apfel, 10 g Walnusskerne, 1 g Zimt"
+}

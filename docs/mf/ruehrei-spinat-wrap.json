@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "burritoEnchiladaRollGreen",
+ "name": "Rührei-Spinat-Wrap",
+ "nutrients": {
+  "energy": 565,
+  "protein": 42,
+  "carbs": 33,
+  "fat": 29
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 350
+ },
+ "notes": "Futtern-Plan: 165 g Eier (3 Stück, Größe M), 60 g Vollkorn-Wrap, 50 g Babyspinat, 40 g Putenbrust Aufschnitt, 30 g Mozzarella light, 5 g Olivenöl"
+}

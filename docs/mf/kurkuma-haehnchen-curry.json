@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "riceWhiteBowl",
+ "name": "Kurkuma-Hähnchen-Curry",
+ "nutrients": {
+  "energy": 545,
+  "protein": 42,
+  "carbs": 61,
+  "fat": 15
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 456
+ },
+ "notes": "Futtern-Plan: 300 g Hähnchenbrustfilet, 200 ml Kokosmilch light, 100 ml Gemüsebrühe, 10 g Rapsöl, 3 g Kurkuma, 5 g Ingwer frisch, 3 g Currypulver mild, 140 g Basmatireis, 150 g Paprika rot"
+}

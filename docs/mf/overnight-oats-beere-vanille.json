@@ -1,0 +1,17 @@
+{
+ "source": "futtern-plan",
+ "icon": "overnightOats",
+ "name": "Overnight Oats Beere-Vanille",
+ "nutrients": {
+  "energy": 505,
+  "protein": 34,
+  "carbs": 58,
+  "fat": 12
+ },
+ "serving": {
+  "amount": 1,
+  "label": "Portion",
+  "weight": 395
+ },
+ "notes": "Futtern-Plan: 60 g Haferflocken zart, 200 ml Haferdrink ungesüßt, 25 g Whey Protein Isolat Vanille, 10 g Chiasamen, 100 g Beerenmischung tiefgekühlt"
+}
