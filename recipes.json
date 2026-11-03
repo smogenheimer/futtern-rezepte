@@ -1,0 +1,421 @@
+[
+  {
+    "slug": "overnight-oats-beere-vanille",
+    "name": "Overnight Oats Beere-Vanille",
+    "category": "Frühstück",
+    "yield": 1,
+    "time": 3,
+    "nutrition": {"kcal": 505, "protein": 34, "carbs": 58, "fat": 12},
+    "ingredients": [
+      "60 g Haferflocken zart",
+      "200 ml Haferdrink ungesüßt",
+      "25 g Whey Protein Isolat Vanille",
+      "10 g Chiasamen",
+      "100 g Beerenmischung tiefgekühlt"
+    ],
+    "steps": [
+      "Haferflocken, Proteinpulver und Chiasamen in ein Schraubglas geben.",
+      "Haferdrink dazugießen, Deckel schließen und kräftig schütteln.",
+      "Gefrorene Beeren obendrauf geben.",
+      "Über Nacht in den Kühlschrank stellen. Morgens umrühren."
+    ]
+  },
+  {
+    "slug": "overnight-oats-apfel-zimt",
+    "name": "Overnight Oats Apfel-Zimt",
+    "category": "Frühstück",
+    "yield": 1,
+    "time": 4,
+    "nutrition": {"kcal": 515, "protein": 32, "carbs": 60, "fat": 14},
+    "ingredients": [
+      "60 g Haferflocken zart",
+      "200 ml Haferdrink ungesüßt",
+      "25 g Whey Protein Isolat Vanille",
+      "80 g Apfel",
+      "10 g Walnusskerne",
+      "1 g Zimt"
+    ],
+    "steps": [
+      "Haferflocken, Proteinpulver und Zimt ins Glas geben, Haferdrink dazu, schütteln.",
+      "Apfel mit Schale direkt ins Glas raspeln und unterrühren.",
+      "Über Nacht in den Kühlschrank stellen.",
+      "Morgens die Walnüsse grob zerbrechen und darüberstreuen."
+    ]
+  },
+  {
+    "slug": "overnight-oats-erdnuss-banane",
+    "name": "Overnight Oats Erdnuss-Banane",
+    "category": "Frühstück",
+    "yield": 1,
+    "time": 3,
+    "nutrition": {"kcal": 550, "protein": 35, "carbs": 64, "fat": 15},
+    "ingredients": [
+      "60 g Haferflocken zart",
+      "200 ml Haferdrink ungesüßt",
+      "25 g Whey Protein Isolat Vanille",
+      "60 g Banane",
+      "15 g Erdnussmus"
+    ],
+    "steps": [
+      "Haferflocken, Proteinpulver und Haferdrink ins Glas geben, schütteln.",
+      "Erdnussmus als Klecks obendrauf geben.",
+      "Über Nacht in den Kühlschrank stellen.",
+      "Morgens die Banane in Scheiben darauflegen."
+    ]
+  },
+  {
+    "slug": "ruehrei-spinat-wrap",
+    "name": "Rührei-Spinat-Wrap",
+    "category": "Frühstück",
+    "yield": 1,
+    "time": 10,
+    "nutrition": {"kcal": 565, "protein": 42, "carbs": 33, "fat": 29},
+    "ingredients": [
+      "165 g Eier (3 Stück, Größe M)",
+      "60 g Vollkorn-Wrap",
+      "50 g Babyspinat",
+      "40 g Putenbrust Aufschnitt",
+      "30 g Mozzarella light",
+      "5 g Olivenöl"
+    ],
+    "steps": [
+      "Öl in einer Pfanne erhitzen, Spinat 30 Sekunden zusammenfallen lassen.",
+      "Eier verquirlen, würzen, in die Pfanne geben und langsam stocken lassen.",
+      "Wrap kurz erwärmen, mit Putenbrust, Rührei und gezupftem Mozzarella belegen.",
+      "Einrollen und 1 Minute mit der Naht nach unten in der Pfanne anrösten."
+    ]
+  },
+  {
+    "slug": "spiegelei-sucuk-brot",
+    "name": "Spiegelei-Sucuk-Brot",
+    "category": "Frühstück",
+    "yield": 1,
+    "time": 8,
+    "nutrition": {"kcal": 535, "protein": 30, "carbs": 48, "fat": 25},
+    "ingredients": [
+      "100 g Vollkornbrot (2 Scheiben)",
+      "40 g Sucuk",
+      "110 g Eier (2 Stück, Größe M)",
+      "100 g Salatgurke"
+    ],
+    "steps": [
+      "Sucuk-Scheiben ohne Öl bei mittlerer Hitze 1–2 Minuten braten.",
+      "Eier daneben aufschlagen und braten, bis das Eiweiß fest ist.",
+      "Brot toasten und mit Sucuk und Spiegeleiern belegen.",
+      "Gurke frisch dazu servieren."
+    ]
+  },
+  {
+    "slug": "beeren-protein-smoothie",
+    "name": "Beeren-Protein-Smoothie",
+    "category": "Mittag / Shake",
+    "yield": 1,
+    "time": 3,
+    "nutrition": {"kcal": 375, "protein": 31, "carbs": 38, "fat": 9},
+    "ingredients": [
+      "250 ml Haferdrink ungesüßt",
+      "30 g Whey Protein Isolat Vanille",
+      "100 g Beerenmischung tiefgekühlt",
+      "60 g Banane",
+      "10 g Chiasamen"
+    ],
+    "steps": [
+      "Alle Zutaten in den Mixer geben.",
+      "30 Sekunden mixen."
+    ]
+  },
+  {
+    "slug": "banane-erdnuss-shake",
+    "name": "Banane-Erdnuss-Shake",
+    "category": "Mittag / Shake",
+    "yield": 1,
+    "time": 3,
+    "nutrition": {"kcal": 450, "protein": 33, "carbs": 51, "fat": 11},
+    "ingredients": [
+      "250 ml Haferdrink ungesüßt",
+      "30 g Whey Protein Isolat Vanille",
+      "100 g Banane",
+      "10 g Erdnussmus",
+      "20 g Haferflocken zart"
+    ],
+    "steps": [
+      "Alle Zutaten in den Mixer geben.",
+      "30–40 Sekunden mixen, bei Bedarf mit Wasser verdünnen."
+    ]
+  },
+  {
+    "slug": "milder-snack-teller",
+    "name": "Milder Snack-Teller",
+    "category": "Mittag / Shake",
+    "yield": 1,
+    "time": 4,
+    "nutrition": {"kcal": 350, "protein": 24, "carbs": 15, "fat": 21},
+    "ingredients": [
+      "75 g Griechischer Joghurt",
+      "75 g Magerquark",
+      "55 g Ei hartgekocht (1 Stück)",
+      "100 g Salatgurke",
+      "80 g Möhren",
+      "15 g Mandeln",
+      "3 g Schnittlauch"
+    ],
+    "steps": [
+      "Joghurt, Quark, Schnittlauch und eine Prise Salz zu einem Dip verrühren.",
+      "Gurke und Möhren in Sticks schneiden, Ei halbieren, Mandeln dazulegen."
+    ]
+  },
+  {
+    "slug": "proteinquark-bowl-beeren-walnuss",
+    "name": "Proteinquark-Bowl Beeren-Walnuss",
+    "category": "Snack",
+    "yield": 1,
+    "time": 2,
+    "nutrition": {"kcal": 255, "protein": 29, "carbs": 16, "fat": 8},
+    "ingredients": [
+      "150 g Magerquark",
+      "30 ml Haferdrink ungesüßt",
+      "10 g Whey Protein Isolat Vanille",
+      "80 g Beerenmischung tiefgekühlt",
+      "10 g Walnusskerne",
+      "1 g Zimt"
+    ],
+    "steps": [
+      "Quark, Haferdrink und Proteinpulver glatt rühren.",
+      "Beeren darauf geben, Walnüsse und Zimt darüberstreuen."
+    ]
+  },
+  {
+    "slug": "pre-gym-banane-soja-joghurt",
+    "name": "Pre-Gym Banane & Soja-Joghurt",
+    "category": "Snack",
+    "yield": 1,
+    "time": 1,
+    "nutrition": {"kcal": 200, "protein": 9, "carbs": 27, "fat": 3},
+    "ingredients": [
+      "120 g Banane",
+      "150 g Alpro Greek Style Natur"
+    ],
+    "steps": [
+      "60–90 Minuten vor dem Training essen."
+    ]
+  },
+  {
+    "slug": "spaghetti-bolo-gestreckt",
+    "name": "Spaghetti Bolo (gestreckt)",
+    "category": "Abendessen",
+    "yield": 2,
+    "time": 45,
+    "nutrition": {"kcal": 680, "protein": 42, "carbs": 72, "fat": 22},
+    "ingredients": [
+      "200 g Rinderhackfleisch",
+      "40 g Rote Linsen getrocknet",
+      "80 g Möhren",
+      "80 g Paprika rot",
+      "350 g Passierte Tomaten",
+      "10 g Tomatenmark",
+      "5 g Olivenöl",
+      "15 g Frühlingszwiebeln",
+      "140 g Spaghetti",
+      "30 g Parmesan"
+    ],
+    "steps": [
+      "Möhre und Paprika mit etwas passierten Tomaten fein pürieren.",
+      "Öl erhitzen, eine angedrückte Knoblauchzehe 2 Minuten darin ziehen lassen und herausnehmen. Hack darin krümelig anbraten, Tomatenmark 1 Minute mitrösten.",
+      "Gemüsepüree, restliche Tomaten, Linsen, 150 ml Wasser, Oregano, italienische Kräuter, Salz und Pfeffer dazugeben.",
+      "Zugedeckt 20–25 Minuten köcheln, bis die Linsen zerfallen. Frühlingszwiebelgrün unterrühren.",
+      "Spaghetti 2 Minuten kürzer als angegeben kochen, kalt abspülen, mit etwas Öl mischen.",
+      "Soße und Pasta getrennt in 2 Boxen füllen. Parmesan erst beim Essen."
+    ]
+  },
+  {
+    "slug": "creamy-cajun-chicken-one-pot",
+    "name": "Creamy Cajun Chicken One-Pot (mild)",
+    "category": "Abendessen",
+    "yield": 2,
+    "time": 25,
+    "nutrition": {"kcal": 615, "protein": 51, "carbs": 55, "fat": 19},
+    "ingredients": [
+      "300 g Hähnchenbrustfilet",
+      "140 g Penne",
+      "400 ml Gemüsebrühe",
+      "100 ml Kochsahne laktosefrei 15 %",
+      "10 g Olivenöl",
+      "20 g Parmesan",
+      "50 g Babyspinat",
+      "150 g Paprika rot"
+    ],
+    "steps": [
+      "Hähnchen würfeln und mit Paprikapulver edelsüß, geräuchertem Paprika, Oregano, Thymian, Salz und Pfeffer würzen.",
+      "Öl mit einer angedrückten Knoblauchzehe erhitzen, Zehe herausnehmen. Hähnchen darin goldbraun anbraten und herausnehmen.",
+      "Brühe und Sahne in den Topf geben, aufkochen, Penne hinein.",
+      "Zugedeckt 10–12 Minuten köcheln, bis die Pasta al dente ist.",
+      "Hähnchen zurückgeben, Spinat und Parmesan unterrühren.",
+      "Paprika beim Essen frisch in Streifen kurz anbraten und dazugeben."
+    ]
+  },
+  {
+    "slug": "kurkuma-haehnchen-curry",
+    "name": "Kurkuma-Hähnchen-Curry",
+    "category": "Abendessen",
+    "yield": 2,
+    "time": 25,
+    "nutrition": {"kcal": 545, "protein": 42, "carbs": 61, "fat": 15},
+    "ingredients": [
+      "300 g Hähnchenbrustfilet",
+      "200 ml Kokosmilch light",
+      "100 ml Gemüsebrühe",
+      "10 g Rapsöl",
+      "3 g Kurkuma",
+      "5 g Ingwer frisch",
+      "3 g Currypulver mild",
+      "140 g Basmatireis",
+      "150 g Paprika rot"
+    ],
+    "steps": [
+      "Reis nach Packungsangabe kochen.",
+      "Hähnchen würfeln und im Öl 5 Minuten anbraten.",
+      "Kurkuma, Curry, eine Prise Pfeffer und geriebenen Ingwer 30 Sekunden mitrösten.",
+      "Kokosmilch und Brühe dazugeben, 8 Minuten sanft köcheln. Mit Salz abschmecken.",
+      "In 2 Boxen aufteilen: eine in den Kühlschrank, eine ins Gefrierfach.",
+      "Paprika beim Essen frisch anbraten oder roh dazugeben."
+    ]
+  },
+  {
+    "slug": "teriyaki-lachs-bowl",
+    "name": "Teriyaki-Lachs-Bowl",
+    "category": "Abendessen",
+    "yield": 2,
+    "time": 20,
+    "nutrition": {"kcal": 585, "protein": 37, "carbs": 60, "fat": 21},
+    "ingredients": [
+      "300 g Lachsfilet",
+      "120 g Basmatireis",
+      "30 ml Sojasauce",
+      "10 g Honig",
+      "5 ml Reisessig",
+      "5 g Ingwer frisch",
+      "5 g Speisestärke",
+      "200 g Salatgurke",
+      "100 g Möhren",
+      "5 g Sesam"
+    ],
+    "steps": [
+      "Reis kochen und abkühlen lassen.",
+      "Sojasauce, Honig, Reisessig, Ingwer und in 2 EL Wasser angerührte Stärke aufkochen und 1 Minute eindicken lassen.",
+      "Lachs mit der Hälfte der Soße bestreichen und im Airfryer bei 180 °C 8–10 Minuten garen.",
+      "Reis und Lachs in Boxen füllen, restliche Soße separat.",
+      "Beim Essen Gurke würfeln, Möhre raspeln, mit Sesam bestreuen."
+    ]
+  },
+  {
+    "slug": "lasagne-gestreckt",
+    "name": "Lasagne (gestreckt)",
+    "category": "Abendessen",
+    "yield": 2,
+    "time": 70,
+    "nutrition": {"kcal": 665, "protein": 42, "carbs": 67, "fat": 23},
+    "ingredients": [
+      "150 g Rinderhackfleisch",
+      "40 g Rote Linsen getrocknet",
+      "80 g Möhren",
+      "250 g Passierte Tomaten",
+      "5 g Olivenöl",
+      "250 ml Milch laktosefrei 1,5 %",
+      "15 g Weizenmehl",
+      "5 g Olivenöl",
+      "100 g Lasagneplatten",
+      "100 g Babyspinat",
+      "60 g Mozzarella light",
+      "15 g Parmesan"
+    ],
+    "steps": [
+      "Hack im Öl anbraten, geriebene Möhre, Tomaten, Linsen, 100 ml Wasser und Kräuter dazugeben, 20 Minuten köcheln.",
+      "Für die Béchamel Öl und Mehl 1 Minute anschwitzen, kalte Milch einrühren, 3–4 Minuten köcheln. Mit Salz und Muskat würzen.",
+      "Ofen auf 180 °C Umluft vorheizen.",
+      "Schichten: Ragù, Platten, Ragù, Spinat, Béchamel, Platten, Ragù, Béchamel. Mit Mozzarella und Parmesan bestreuen.",
+      "30–35 Minuten backen, 10 Minuten ruhen lassen und halbieren."
+    ]
+  },
+  {
+    "slug": "haehnchen-gyros-teller",
+    "name": "Hähnchen-Gyros-Teller mit Tzatziki",
+    "category": "Abendessen",
+    "yield": 2,
+    "time": 30,
+    "nutrition": {"kcal": 595, "protein": 56, "carbs": 54, "fat": 17},
+    "ingredients": [
+      "350 g Hähnchenbrustfilet",
+      "10 g Olivenöl",
+      "500 g Kartoffeln festkochend",
+      "5 g Rapsöl",
+      "100 g Griechischer Joghurt",
+      "100 g Magerquark",
+      "300 g Salatgurke",
+      "150 g Cherrytomaten",
+      "100 g Paprika rot"
+    ],
+    "steps": [
+      "Hähnchen in Streifen schneiden, mit Öl, Paprika, Oregano, Kreuzkümmel, Thymian, Salz und Pfeffer marinieren.",
+      "Kartoffeln in Spalten schneiden, mit Öl und Gewürzen mischen, im Airfryer bei 200 °C 18–22 Minuten garen.",
+      "Hähnchen in einer heißen Pfanne in zwei Runden scharf anbraten.",
+      "Die Hälfte der Gurke raspeln, ausdrücken und mit Joghurt, Quark, Petersilie und Salz verrühren.",
+      "Restliche Gurke, Tomaten und Paprika frisch dazu servieren."
+    ]
+  },
+  {
+    "slug": "puten-hackbaellchen-paprikasosse",
+    "name": "Puten-Hackbällchen in milder Paprikasoße",
+    "category": "Abendessen",
+    "yield": 2,
+    "time": 30,
+    "nutrition": {"kcal": 655, "protein": 43, "carbs": 66, "fat": 22},
+    "ingredients": [
+      "300 g Putenhackfleisch",
+      "55 g Ei (1 Stück)",
+      "20 g Haferflocken zart",
+      "5 g Rapsöl",
+      "300 g Paprika rot",
+      "200 g Passierte Tomaten",
+      "50 ml Kochsahne laktosefrei 15 %",
+      "5 g Olivenöl",
+      "120 g Basmatireis"
+    ],
+    "steps": [
+      "Paprika grob schneiden und im Airfryer bei 200 °C 12 Minuten rösten. Mit Tomaten, Sahne, Öl, Paprikapulver und Salz pürieren.",
+      "Hack, Ei, Haferflocken, Petersilie, Salz und Pfeffer verkneten und 12–14 Bällchen formen.",
+      "Bällchen mit Öl bepinseln und im Airfryer bei 190 °C 10–12 Minuten garen.",
+      "Soße erhitzen, Bällchen 5 Minuten darin ziehen lassen. Reis kochen.",
+      "Eine Portion in den Kühlschrank, eine ins Gefrierfach."
+    ]
+  },
+  {
+    "slug": "lachs-frikadellen-kartoffelsalat",
+    "name": "Lachs-Frikadellen mit Kartoffelsalat",
+    "category": "Abendessen",
+    "yield": 2,
+    "time": 30,
+    "nutrition": {"kcal": 675, "protein": 41, "carbs": 56, "fat": 31},
+    "ingredients": [
+      "250 g Lachsfilet",
+      "55 g Ei (1 Stück)",
+      "30 g Haferflocken zart",
+      "15 g Senf mittelscharf",
+      "5 g Rapsöl",
+      "500 g Kartoffeln festkochend",
+      "150 ml Gemüsebrühe",
+      "15 ml Apfelessig",
+      "10 g Olivenöl",
+      "200 g Salatgurke",
+      "50 g Griechischer Joghurt",
+      "50 g Magerquark"
+    ],
+    "steps": [
+      "Kartoffeln mit Schale 20 Minuten kochen, pellen und in Scheiben schneiden.",
+      "Heiße Brühe, Essig, einen Teil des Senfs und Olivenöl verrühren und über die warmen Kartoffeln gießen. 15 Minuten ziehen lassen.",
+      "Lachs fein hacken, mit Ei, Haferflocken, restlichem Senf, Petersilie und Zitronenschale mischen. 10 Minuten quellen lassen.",
+      "6 flache Frikadellen formen, mit Öl bepinseln und im Airfryer bei 190 °C 10–12 Minuten garen.",
+      "Joghurt und Quark mit etwas Senf zum Dip verrühren.",
+      "Gurke in Scheiben und Schnittlauch erst beim Essen unter den Salat heben."
+    ]
+  }
+]
